@@ -35,7 +35,8 @@ I made this project to learn how mechanical design, embedded electronics, and co
 ---
 
 ##### 3D_render
-    ![Full CAD Model](CAD/3d_RENDER(front).jpg)
+
+![Full CAD Model](CAD/3d_RENDER(front).jpg)
 
 ---
 
