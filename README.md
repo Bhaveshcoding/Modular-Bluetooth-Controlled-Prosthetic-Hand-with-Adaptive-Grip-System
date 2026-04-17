@@ -70,13 +70,13 @@ https://www.tinkercad.com/things/5ojhNEz72F2-circuit-prosthetichand/editel?retur
 
 ### Wiring Diagram
 
-![Wiring Diagram](electronics/wiring_diagram.jpg)
+![Wiring Diagram](Electronics/wiring_diagram.jpg)
 
 ---
 
 ### TinkerCAD Simulation
 
-![TinkerCAD Setup](Electronics_Map(tinkercad).jpg)
+![TinkerCAD Setup](Electronics/Electronics_Map(tinkercad).jpg)
 
 ---
 
