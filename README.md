@@ -14,7 +14,8 @@ I made this project to learn how mechanical design, embedded electronics, and co
 
 ---
 ## CAD
-
+### NOTE:
+Arm + Electronics Assembly-:(.7z Archive)](CAD/Arm+electronics.7z):Contains the mandatory **.STEP** file with full electronics integration. Compressed due to file size.
 #### STEP Format files-
 
     CAD/3D%20Files%20Robo%20Hand
