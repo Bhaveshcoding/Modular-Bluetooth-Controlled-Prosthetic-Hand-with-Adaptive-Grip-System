@@ -17,13 +17,13 @@ I made this project to learn how mechanical design, embedded electronics, and co
 
 #### STEP Format files-
 
-    ![STEP files](CAD/3D%20Files%20Robo%20Hand)
+    CAD/3D%20Files%20Robo%20Hand
 
 ---
 
 #### F3D & F3Z Format files-
 
-    ![F3D & F3Z Files](CAD/ROBO%20hand%20files(f3d))
+    CAD/ROBO%20hand%20files(f3d)
 
 ---
 
