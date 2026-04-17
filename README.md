@@ -70,7 +70,7 @@ https://www.tinkercad.com/things/5ojhNEz72F2-circuit-prosthetichand/editel?retur
 
 ### Wiring Diagram
 
-![Wiring Diagram](Electronics/wiring_diagram.jpg)
+![Wiring Diagram](Electronics/wiring_diagram.Jpg)
 
 ---
 
