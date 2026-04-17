@@ -1,0 +1,31 @@
+Modular Bluetooth-Controlled Prosthetic Hand with Adaptive Grip System
+
+MECHANICAL-
+	- 5 Fingers
+		-3 segment pull
+	- String based pulling
+		-nylon rope
+		-fishing rope
+	-Rubber Band return
+
+
+ELECTRONICS-
+	-Arduino UNO R3
+	-5 servo motors
+		-1servo/finger
+	-Bluetooth Control
+
+
+CONTROLS-
+	-Predefined grip modes(using Blue tooth)
+		-OPEN
+		-CLOSE
+		-SEMIOPEN
+		-INDIVIDUAL FINGER MOVEMENT
+
+
+CONTROL METHODS-
+	-Bluetooth
+
+DESIGN-
+	-3D printed parts
