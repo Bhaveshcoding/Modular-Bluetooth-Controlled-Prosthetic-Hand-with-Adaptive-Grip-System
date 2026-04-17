@@ -123,7 +123,7 @@ This project does not use a PCB, so please note. All of the connections are made
 
 The prosthetic hand can be set up to have different grip modes or to let each finger move on its own.
 It is presnt at-
-    ![Firmware](Firmware/hand_control.ino)
+    [Firmware](Firmware/hand_control.ino)
 
 ---
 
