@@ -1,10 +1,10 @@
-# Modular Bluetoth-Controlled Prosthetic Hand with Adaptive Grip System
+# Modular Bluetooth-Controlled Prosthetic Hand with Adaptive Grip System
 
 ---
 
 # What it is
 
-This project is a modular robotic prosthetic hand that uses a tendon-driven mechanism and servo motors to copy how a human finger moves. A Bluetooth module lets you control the system wirelessly, giving you access to different grip modes and the ability to control each finger from a mobile device.
+This projct is a modular robotic prosthetic hand that uses a tendon-driven mechanism and servo motors to copy how a human finger moves. A Bluetooth module lets you control the system wirelessly, giving you access to different grip modes and the ability to control each finger from a mobile device.
 
 ---
 
