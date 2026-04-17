@@ -1,4 +1,4 @@
-# Modular Bluetooth-Controlled Prosthetic Hand with Adaptive Grip System
+# Modular Bluetoth-Controlled Prosthetic Hand with Adaptive Grip System
 
 ---
 
