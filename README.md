@@ -4,18 +4,19 @@
 
 # What it is
 
-This projct is a modular robotic prosthetic hand that uses a tendon-driven mechanism and servo motors to copy how a human finger moves. A Bluetooth module lets you control the system wirelessly, giving you access to different grip modes and the ability to control each finger from a mobile device.
+This project is a simple prosthetic hand that uses a tendon-driven string mechanism and is operated via the HC-05 module over Bluetooth, with SG90 servos for movement. It is a 3d printed model which I made the CAD for myself[:)]. It is a very simple model, and Hope Yall can make it too...
 
 ---
 
 ## Why I Did This
 
-I made this project to learn how mechanical design, embedded electronics, and control systems work together in real-life assistive robots. I didn't just make a simple servo demo; I made a whole system that shows how a real prosthetic hand could work.
+I made this project to learn  mechanical design, electronics, real-life assistive robots. I made a whole system that shows how a real prosthetic hand could work.
 
 ---
 ## CAD
 ### NOTE:
 Arm + Electronics Assembly-:(.7z Archive)](CAD/Arm+electronics.7z):Contains the mandatory **.STEP** file with full electronics integration. Compressed due to file size.
+Google Drive link(as suggested by someone in #stasis-support)-https://drive.google.com/file/d/1kVEwLl6yhaGHvDUCItGak4jiyQgdJik9/view?usp=sharing 
 #### STEP Format files-
 
     CAD/3D%20Files%20Robo%20Hand
