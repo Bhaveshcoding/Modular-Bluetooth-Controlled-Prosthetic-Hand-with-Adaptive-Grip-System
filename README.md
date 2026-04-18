@@ -36,6 +36,12 @@ Google Drive link(as suggested by someone in #stasis-support)-https://drive.goog
 
 ---
 
+### Picture of 3D printed model-
+
+![3D printed arm Model](https://drive.google.com/file/d/1kVEwLl6yhaGHvDUCItGak4jiyQgdJik9/view?usp=sharing)
+
+---
+
 ##### 3D_render
 
 ![Full CAD Model](CAD/3d_RENDER(front).jpg)
