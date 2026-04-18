@@ -199,6 +199,6 @@ The CAD model, electronics design, and firmware are all done. The system is read
 
 ## Last Thoughts
 
-This project shows how to build a robotic prosthetic hand from start to finish by combining mechanical design, electronics, and control software into a single working prototype.
+This project shows how to build a robotic prosthetic hand from scratch to finish by using mechanical design, electronics, and code.
 
 ---
