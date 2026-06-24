@@ -2,6 +2,12 @@
 
 ---
 
+# NOTE:
+Since, this project was made first for stasis and is being transferred to horizons, by permission of of both parties as no funding was taken from stasis and it is unapproved.
+THUS, I REQUEST THE VIEWER TO GIVE ME HRS ACCORING TO MY JOURNAL.
+THANKING YOU!
+
+---
 # What it is
 
 This project is a simple prosthetic hand that uses a tendon-driven string mechanism and is controlled over Bluetooth using an HC-05 module and SG90 servos. It is a 3D-printed model that I designed myself :). It is a simple project and I hope you all can build it too!
