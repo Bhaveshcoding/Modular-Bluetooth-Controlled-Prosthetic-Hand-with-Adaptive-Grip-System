@@ -225,6 +225,9 @@ The system is ready for assembly and real-world testing.
 * Improve durability and reliability
 
 ---
+##  AI-Generated Content Notice
+
+This repository uses AI-assisted technologies for writing and documentation.
 
 ## Last Thoughts
 
