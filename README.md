@@ -16,7 +16,7 @@ I made this project to learn  mechanical design, electronics, real-life assistiv
 ## CAD
 ### NOTE:
 Arm + Electronics Assembly-:(.7z Archive)](CAD/Arm+electronics.7z):Contains the mandatory **.STEP** file with full electronics integration. Compressed due to file size.
-Google Drive link(as suggested by someone in #stasis-support)-https://drive.google.com/file/d/1kVEwLl6yhaGHvDUCItGak4jiyQgdJik9/view?usp=sharing 
+Google Drive link-https://drive.google.com/file/d/1kVEwLl6yhaGHvDUCItGak4jiyQgdJik9/view?usp=sharing 
 #### STEP Format files-
 
     CAD/3D%20Files%20Robo%20Hand
