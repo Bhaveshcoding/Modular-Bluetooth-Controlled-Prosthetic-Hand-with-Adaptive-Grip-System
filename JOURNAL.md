@@ -378,10 +378,6 @@ Copy the design of the working finger for all of the fingers, and then start put
 
 ---
 
-## Lapse Timelapses
-
-**Timelapse**
-https://lapse.hackclub.com/timelapse/O0wZ3Btxx9w8
 
 ![image](https://stasis.hackclub-assets.com/images/1775754636629-vc0n18.png)
 ![image](https://stasis.hackclub-assets.com/images/1775754723415-kzewlj.png)
