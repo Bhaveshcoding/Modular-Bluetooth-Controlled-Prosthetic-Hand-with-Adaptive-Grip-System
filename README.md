@@ -3,7 +3,7 @@
 ---
 
 # NOTE:
-Since, this project was made first for stasis and is being transferred to horizons, by permission of of both parties as no funding was taken from stasis and it is unapproved.
+Since, this project was made first for stasis and is being transferred to horizons, by permission of of both parties as no funding was taken from stasis and it is unapproved. As Stasis does not REQUIRE the use LAPSE.
 THUS, I REQUEST THE VIEWER TO GIVE ME HRS ACCORING TO MY JOURNAL.
 THANKING YOU!
 
