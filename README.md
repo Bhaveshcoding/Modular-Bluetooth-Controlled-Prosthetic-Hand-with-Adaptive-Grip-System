@@ -8,6 +8,8 @@ This project was originally started for Stasis and is now being transferred to H
 
 No funding was received from Stasis, and the project was never approved there. Since Stasis does not require the use of Lapse, I kindly request that project hours be evaluated based on my submitted journal entries.
 
+P.S.-PERMISSION WAS TAKEN FROM @phthallo FOR DOING IT THIS WAY.
+
 Thank you for your consideration.
 
 ---
